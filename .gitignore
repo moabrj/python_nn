@@ -5,6 +5,7 @@
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea/
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -18,6 +19,7 @@
 # Gradle:
 .idea/**/gradle.xml
 .idea/**/libraries
+codes/__pycache__/
 
 # CMake
 cmake-build-debug/
